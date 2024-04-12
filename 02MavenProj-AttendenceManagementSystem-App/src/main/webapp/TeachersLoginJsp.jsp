@@ -15,6 +15,7 @@
 		out.print("Name::" + tlb.getName() + "<br>");
 		out.print("Subject::" + tlb.getSubject() + "<br>");
 	%>
-	<a>Students</a>
+	<a href="students">Students</a>
+	<a href="logout">Logout</a>
 </body>
 </html>

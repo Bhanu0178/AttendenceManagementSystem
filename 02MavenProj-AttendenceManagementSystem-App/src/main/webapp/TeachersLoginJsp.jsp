@@ -5,7 +5,9 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
+<meta http-equiv="refresh" content="10">
 <title>Insert title here</title>
+ 
 </head>
 <body>
 	<%
